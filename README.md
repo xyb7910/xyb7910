@@ -14,12 +14,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyb7910&layout=compact)](https://github.com/xyb7910)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=King-of-Bots&theme=ambient_gradient&layout=normal)](https://github.com/xyb7910/King-of-Bots)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=King-of-Bots&theme=ambient_gradient&layout=donut-vertical)](https://github.com/xyb7910/King-of-Bots)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=GoProgramming&theme=ambient_gradient&layout=normal)](https://github.com/xyb7910/GoProgramming)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=GoProgramming&theme=ambient_gradient&layout=donut-vertical)](https://github.com/xyb7910/GoProgramming)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=redis-go&theme=ambient_gradient&layout=normal)](https://github.com/xyb7910/redis-go)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=redis-go&theme=ambient_gradient&layout=donut-vertical)](https://github.com/xyb7910/redis-go)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=vue_cli_learning&theme=ambient_gradient&layout=normal)](https://github.com/xyb7910/vue_cli_learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=vue_cli_learning&theme=ambient_gradient&layout=donut-vertical)](https://github.com/xyb7910/vue_cli_learning)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=vue3_cli_learning&theme=ambient_gradient&layout=normal)](https://github.com/xyb7910/vue3_cli_learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=vue3_cli_learning&theme=ambient_gradient&layout=donut-vertical)](https://github.com/xyb7910/vue3_cli_learning)
