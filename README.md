@@ -1,17 +1,16 @@
-### Hi there 👋
+### Welcome to my profile. 👋
 
+- 🔭 I’m currently working at home.
+- 🌱 I’m currently learning web development.
+- 👯 I am looking for cooperation with entrepreneurial teams and big data.
+- 🤔 I’m looking for help with everyone.
+- 💬 Ask me about algorithm, web or front development,etc.
+- 📫 How to reach me:
+  - vx:xyb7910
+  - qq:1502709024
+  - ...
 
-**xyb7910/xyb7910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![xyb7910's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyb7910&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyb7910&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![xyb7910's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyb7910&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
