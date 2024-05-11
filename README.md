@@ -16,10 +16,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=King-of-Bots&theme=ambient_gradient)](https://github.com/xyb7910/King-of-Bots)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=GoProgrammingambient_gradient)](https://github.com/xyb7910/GoProgramming)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=GoProgramming&theme=ambient_gradient)](https://github.com/xyb7910/GoProgramming)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=redis-goambient_gradient)](https://github.com/xyb7910/redis-go)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=redis-go&theme=ambient_gradient)](https://github.com/xyb7910/redis-go)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=vue_cli_learningambient_gradient)](https://github.com/xyb7910/vue_cli_learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=vue_cli_learning&theme=ambient_gradient)](https://github.com/xyb7910/vue_cli_learning)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=vue3_cli_learningambient_gradient)](https://github.com/xyb7910/vue3_cli_learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyb7910&repo=vue3_cli_learning&theme=ambient_gradient)](https://github.com/xyb7910/vue3_cli_learning)
